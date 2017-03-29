@@ -1,0 +1,62 @@
+Info: Reading netlist file "C:\Users\Mike Roberts\Documents\MikeRoberts\MikeRoberts.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/58DB394C:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Adding new component "C1:/58DB394C" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Changing component "C1:/58DB394C" pin "1" net name from "" to "Net-(C1-Pad1)".
+
+Changing component "C1:/58DB394C" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D1:/58DB138D:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Adding new component "D1:/58DB138D" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Changing component "D1:/58DB138D" pin "1" net name from "" to "Net-(D1-Pad1)".
+
+Changing component "D1:/58DB138D" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R2:/58DB15D3:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Adding new component "R2:/58DB15D3" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Changing component "R2:/58DB15D3" pin "1" net name from "" to "Net-(R2-Pad1)".
+
+Changing component "R2:/58DB15D3" pin "2" net name from "" to "Net-(R2-Pad2)".
+
+Info: Checking netlist component footprint "RV1:/58DB159A:Potentiometers:Potentiometer_Trimmer_Vishay_T73YP_Horizontal".
+
+Adding new component "RV1:/58DB159A" footprint "Potentiometers:Potentiometer_Trimmer_Vishay_T73YP_Horizontal".
+
+Changing component "RV1:/58DB159A" pin "3" net name from "" to "GND".
+
+Changing component "RV1:/58DB159A" pin "2" net name from "" to "Net-(C1-Pad1)".
+
+Changing component "RV1:/58DB159A" pin "1" net name from "" to "Input".
+
+Info: Checking netlist component footprint "RV2:/58DB2311:Potentiometers:Potentiometer_Trimmer_Vishay_T73YP_Horizontal".
+
+Adding new component "RV2:/58DB2311" footprint "Potentiometers:Potentiometer_Trimmer_Vishay_T73YP_Horizontal".
+
+Changing component "RV2:/58DB2311" pin "3" net name from "" to "Net-(RV2-Pad3)".
+
+Changing component "RV2:/58DB2311" pin "2" net name from "" to "Net-(R2-Pad1)".
+
+Changing component "RV2:/58DB2311" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "U1:/58DB161C:TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Adding new component "U1:/58DB161C" footprint "TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Changing component "U1:/58DB161C" pin "1" net name from "" to "Net-(R2-Pad2)".
+
+Changing component "U1:/58DB161C" pin "2" net name from "" to "Net-(RV2-Pad3)".
+
+Changing component "U1:/58DB161C" pin "3" net name from "" to "Net-(C1-Pad1)".
+
+Changing component "U1:/58DB161C" pin "4" net name from "" to "GND".
+
+Error: Component 'U1' pad '8' not found in footprint 'TO_SOT_Packages_SMD:SOT-23-5_HandSoldering'
+
